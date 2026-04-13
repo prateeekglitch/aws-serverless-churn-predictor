@@ -17,4 +17,4 @@ Because churn datasets are heavily imbalanced (most users stay, few leave), a st
 The model successfully achieved **79% Recall** on actual churners (Class 1). This allows the business to redirect marketing spend exclusively to high-LTV flight risks, projecting a massive ROI on retention budgets.
 
 ### Proof of Execution: Model Metrics
-![Model Metrics](metrics.png)
+![Model Metrics](metrics.jpeg)
